@@ -1,0 +1,26 @@
+system
+You are a helpful assistant.
+user
+extract the text in the image
+assistant
+The text in the image is a page from a document, likely a technical or academic paper. Here is the transcription of the text:
+
+```markdown
+# Example in (doc5)
+
+Assisting [create OR replace tem view]
+
++ types
+
+1 - inner join = join
+2 - left join / left outer join
+3 - right join / right outer join
+4 - full outer join
+5 - cross join
+6 - adjoint join / left adjoint join
+7 - semi join / left semi join
+
+syntax
+df1.union(df2) without duplicates
+df1.unionall(df2) with duplicates
+```
