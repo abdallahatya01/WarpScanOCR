@@ -1,0 +1,6 @@
+opencv-python-headless
+imutils
+torch
+transformers
+matplotlib
+pillow
